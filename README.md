@@ -5,6 +5,7 @@ resistors 3
 motor 1
 Battery 1
 ![image](https://github.com/user-attachments/assets/084cd5e0-4066-4034-a06d-1e31d1ac5905)
-![image](https://github.com/user-attachments/assets/5adf945f-c2b7-4132-affb-b3d1949bf0b1)
-![image](https://github.com/user-attachments/assets/3d065849-1ae8-49bb-9ac3-77b2da13b56e)
+![image](https://github.com/user-attachments/assets/5ff217f4-ce5c-4b73-bfdd-a9e5c4844133)
+![image](https://github.com/user-attachments/assets/610a1722-ea8f-4214-9505-6ad6fcc090cc)
+
 By: Sankalp
